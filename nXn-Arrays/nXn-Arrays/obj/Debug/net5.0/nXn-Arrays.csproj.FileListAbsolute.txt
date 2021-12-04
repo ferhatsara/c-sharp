@@ -1,0 +1,16 @@
+C:\Users\saraf\OneDrive\Masaüstü\c-sharp\c-sharp\nXn-Arrays\nXn-Arrays\bin\Debug\net5.0\nXn-Arrays.exe
+C:\Users\saraf\OneDrive\Masaüstü\c-sharp\c-sharp\nXn-Arrays\nXn-Arrays\bin\Debug\net5.0\nXn-Arrays.deps.json
+C:\Users\saraf\OneDrive\Masaüstü\c-sharp\c-sharp\nXn-Arrays\nXn-Arrays\bin\Debug\net5.0\nXn-Arrays.runtimeconfig.json
+C:\Users\saraf\OneDrive\Masaüstü\c-sharp\c-sharp\nXn-Arrays\nXn-Arrays\bin\Debug\net5.0\nXn-Arrays.runtimeconfig.dev.json
+C:\Users\saraf\OneDrive\Masaüstü\c-sharp\c-sharp\nXn-Arrays\nXn-Arrays\bin\Debug\net5.0\nXn-Arrays.dll
+C:\Users\saraf\OneDrive\Masaüstü\c-sharp\c-sharp\nXn-Arrays\nXn-Arrays\bin\Debug\net5.0\ref\nXn-Arrays.dll
+C:\Users\saraf\OneDrive\Masaüstü\c-sharp\c-sharp\nXn-Arrays\nXn-Arrays\bin\Debug\net5.0\nXn-Arrays.pdb
+C:\Users\saraf\OneDrive\Masaüstü\c-sharp\c-sharp\nXn-Arrays\nXn-Arrays\obj\Debug\net5.0\nXn-Arrays.csproj.AssemblyReference.cache
+C:\Users\saraf\OneDrive\Masaüstü\c-sharp\c-sharp\nXn-Arrays\nXn-Arrays\obj\Debug\net5.0\nXn-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saraf\OneDrive\Masaüstü\c-sharp\c-sharp\nXn-Arrays\nXn-Arrays\obj\Debug\net5.0\nXn-Arrays.AssemblyInfoInputs.cache
+C:\Users\saraf\OneDrive\Masaüstü\c-sharp\c-sharp\nXn-Arrays\nXn-Arrays\obj\Debug\net5.0\nXn-Arrays.AssemblyInfo.cs
+C:\Users\saraf\OneDrive\Masaüstü\c-sharp\c-sharp\nXn-Arrays\nXn-Arrays\obj\Debug\net5.0\nXn-Arrays.csproj.CoreCompileInputs.cache
+C:\Users\saraf\OneDrive\Masaüstü\c-sharp\c-sharp\nXn-Arrays\nXn-Arrays\obj\Debug\net5.0\nXn-Arrays.dll
+C:\Users\saraf\OneDrive\Masaüstü\c-sharp\c-sharp\nXn-Arrays\nXn-Arrays\obj\Debug\net5.0\ref\nXn-Arrays.dll
+C:\Users\saraf\OneDrive\Masaüstü\c-sharp\c-sharp\nXn-Arrays\nXn-Arrays\obj\Debug\net5.0\nXn-Arrays.pdb
+C:\Users\saraf\OneDrive\Masaüstü\c-sharp\c-sharp\nXn-Arrays\nXn-Arrays\obj\Debug\net5.0\nXn-Arrays.genruntimeconfig.cache
